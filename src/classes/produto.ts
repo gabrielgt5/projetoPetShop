@@ -1,8 +1,8 @@
 export class produto {
-    private codigo: string;
-    private nome: string;
+    codigo: string;
+    nome: string;
     private data_val: string;
-    private preco: number;
+    protected preco: number;
 
     constructor(nome: string, dat_val: string, codigo: string, preco: number) {
         this.nome = nome;

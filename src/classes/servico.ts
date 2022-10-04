@@ -1,8 +1,8 @@
 export class servico{
-    private tempo_de_servico: number;
-    private preco: number;
-    private codigo: number;
-    private descricao: string;
+    protected tempo_de_servico: number;
+    protected preco: number;
+    codigo: number;
+    descricao: string;
 
     constructor(tempo_de_servico: number, preco: number, codigo: number, descricao: string) {
         this.tempo_de_servico = tempo_de_servico;

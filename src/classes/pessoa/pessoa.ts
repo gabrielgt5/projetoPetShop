@@ -1,8 +1,8 @@
 export class pessoa{
     nome: string;
-    private data_nasc: string;
-    private cpf: string;
-    private telefone: number;
+    data_nasc: string;
+    protected cpf: string;
+    telefone: number;
 
     constructor(nome: string, dat_nasc: string, cpf: string, telefone: number) {
         this.nome = nome;
