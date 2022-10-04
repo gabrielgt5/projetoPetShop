@@ -1,5 +1,4 @@
-# Pet Shop [pet_store_shop_building_animal_icon_124625 (1)](https://user-images.githubusercontent.com/69332675/193918531-21b7e5e8-0678-4447-b901-fcc29e15c544.png)
-" alt="pet-shop imagem">
+# Pet Shop <img src="pet_store_shop_building_animal_icon_124625.png" alt="exemplo imagem">
 <!---Esses são exemplos. Veja https://shields.io para outras pessoas ou para personalizar este conjunto de escudos. Você pode querer incluir dependências, status do projeto e informações de licença aqui--->
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/iuricode/README-template?style=for-the-badge)
