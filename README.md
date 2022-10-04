@@ -24,7 +24,7 @@ Antes de começar, leia o manual de execução:
 
 ## 🤝 Colaboradores
 
-Agradecemos às seguintes pessoas que contribuíram para este projeto:
+Pessoas que contribuíram para este projeto:
 
 <table>
   <tr>
@@ -53,23 +53,15 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
       </a>
     </td>
     <td align="center">
-      <a href="#">
         <img src="https://avatars.githubusercontent.com/u/111389681?v=4" width="100px;" alt="Foto do Vitor Gabriel"/><br>
         <sub>
           <b>Vitor Gabriel</b>
         </sub>
-      </a>
     </td>
   </tr>
 </table>
 
 
-## 😄 Seja um dos contribuidores<br>
-
-Quer fazer parte desse projeto? Clique [AQUI](CONTRIBUTING.md) e leia como contribuir.
-
 ## 📝 Licença
 
-Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais detalhes.
-
-[⬆ Voltar ao topo](#nome-do-projeto)<br>
+[⬆ Voltar ao topo](Pet Shop ![pet_store_shop_building_animal_icon_124625](https://user-images.githubusercontent.com/69332675/193919233-c65d5614-6429-4a9a-b0a8-74164e5e6716.png))<br>
