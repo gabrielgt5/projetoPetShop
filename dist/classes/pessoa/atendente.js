@@ -19,8 +19,8 @@ exports.atendente = void 0;
 var pessoa_1 = require("./pessoa");
 var atendente = /** @class */ (function (_super) {
     __extends(atendente, _super);
-    function atendente(nome, data_nasc, cpf, telefone, codEmpregado) {
-        var _this = _super.call(this, nome, data_nasc, cpf, telefone) || this;
+    function atendente(nome, data_nasc, cpf, telefone, codEmpregado, email) {
+        var _this = _super.call(this, nome, data_nasc, cpf, telefone, email) || this;
         _this.codDeEmpregado = codEmpregado;
         return _this;
     }

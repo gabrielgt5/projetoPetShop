@@ -5,3 +5,7 @@ import { atendente } from "./classes/pessoa/atendente";
 import { animal } from "./classes/animal";
 import { servico } from "./classes/servico";
 import { produto } from "./classes/produto";
+
+
+const cliente1 = new cliente("Taldo", "13/01/1999","111.111.111-11", 999999-9999, 78, "taldo@gmail.com")
+console.log(cliente1);

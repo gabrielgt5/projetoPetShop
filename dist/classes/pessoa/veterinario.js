@@ -19,8 +19,8 @@ exports.veterinario = void 0;
 var pessoa_1 = require("./pessoa");
 var veterinario = /** @class */ (function (_super) {
     __extends(veterinario, _super);
-    function veterinario(nome, data_nasc, cpf, telefone, crmv) {
-        var _this = _super.call(this, nome, data_nasc, cpf, telefone) || this;
+    function veterinario(nome, data_nasc, cpf, telefone, crmv, email) {
+        var _this = _super.call(this, nome, data_nasc, cpf, telefone, email) || this;
         _this.crmv = crmv;
         return _this;
     }

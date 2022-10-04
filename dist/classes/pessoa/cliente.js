@@ -19,8 +19,8 @@ exports.cliente = void 0;
 var pessoa_1 = require("./pessoa");
 var cliente = /** @class */ (function (_super) {
     __extends(cliente, _super);
-    function cliente(nome, data_nasc, cpf, telefone, codAtendimento) {
-        var _this = _super.call(this, nome, data_nasc, cpf, telefone) || this;
+    function cliente(nome, data_nasc, cpf, telefone, codAtendimento, email) {
+        var _this = _super.call(this, nome, data_nasc, cpf, telefone, email) || this;
         _this.codAtendimento = codAtendimento;
         return _this;
     }
