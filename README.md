@@ -19,7 +19,7 @@ O projeto foi estruturado com base no conteúdo passado nas aulas de Programaç�
 Antes de começar, leia o manual de execução:
 <!---Estes são apenas requisitos de exemplo. Adicionar, duplicar ou remover conforme necessário--->
 * Você tem que ter instaldo a versão mais recente do `node.js` e `TypScript`.
-* Compile o código  com `tsc -w"`.
+* Compile o código  com `tsc -w`.
 * Apoós execute o programa com `node ./dist/index.js`.
 
 ## 🤝 Colaboradores
@@ -61,7 +61,4 @@ Pessoas que contribuíram para este projeto:
   </tr>
 </table>
 
-
-## 📝 Licença
-
-[⬆ Voltar ao topo](Pet Shop ![pet_store_shop_building_animal_icon_124625](https://user-images.githubusercontent.com/69332675/193919233-c65d5614-6429-4a9a-b0a8-74164e5e6716.png))<br>
+[⬆ Voltar ao topo](Pet Shop)<br>
