@@ -46,17 +46,17 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
     </td>
     <td align="center">
       <a href="#">
-        <img src="https://miro.medium.com/max/360/0*1SkS3mSorArvY9kS.jpg" width="100px;" alt="Foto do Steve Jobs"/><br>
+        <img src="https://avatars.githubusercontent.com/u/111389681?v=4" width="100px;" alt="Foto do Tharlis David"/><br>
         <sub>
-          <b>Steve Jobs</b>
+          <b>Tharlis David</b>
         </sub>
       </a>
     </td>
     <td align="center">
       <a href="#">
-        <img src="https://miro.medium.com/max/360/0*1SkS3mSorArvY9kS.jpg" width="100px;" alt="Foto do Steve Jobs"/><br>
+        <img src="https://avatars.githubusercontent.com/u/111389681?v=4" width="100px;" alt="Foto do Vitor Gabriel"/><br>
         <sub>
-          <b>Steve Jobs</b>
+          <b>Vitor Gabriel</b>
         </sub>
       </a>
     </td>
