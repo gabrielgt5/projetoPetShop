@@ -1,6 +1,7 @@
 # Pet Shop ![pet_store_shop_building_animal_icon_124625](https://user-images.githubusercontent.com/69332675/193919233-c65d5614-6429-4a9a-b0a8-74164e5e6716.png)
 
-##Projeto acadêmico avaliativo
+## Projeto acadêmico avaliativo
+![image](https://user-images.githubusercontent.com/69332675/193919880-acc865e7-1ff2-4a1f-9375-011416ff7e31.png)
 
 <img src="![image](https://user-images.githubusercontent.com/69332675/193919780-41e11b08-0cfa-497c-9a36-ec334726076a.png)" alt="exemplo imagem">
 
