@@ -1,20 +1,18 @@
 # Pet Shop ![pet_store_shop_building_animal_icon_124625](https://user-images.githubusercontent.com/69332675/193919233-c65d5614-6429-4a9a-b0a8-74164e5e6716.png)
 
 ## Projeto acadêmico avaliativo
-![image](https://user-images.githubusercontent.com/69332675/193919880-acc865e7-1ff2-4a1f-9375-011416ff7e31.png)
+![dog-snacks](https://user-images.githubusercontent.com/69332675/193920027-1d90bfe6-d135-4650-a8a9-cef5bc98a773.gif)
 
-<img src="![image](https://user-images.githubusercontent.com/69332675/193919780-41e11b08-0cfa-497c-9a36-ec334726076a.png)" alt="exemplo imagem">
+### Estrutura do projeto 
 
-> Linha adicional de texto informativo sobre o que o projeto faz. Sua introdução deve ter cerca de 2 ou 3 linhas. Não exagere, as pessoas não vão ler.
-### Ajustes e melhorias
+O projeto foi estruturado com base no conteúdo passado nas aulas de Programação Orientada ao Objeto (POO). Abaixo alguns pilares do POO ultilizado no projeto:
 
-O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
+#### 🏛️ Abstração. 
+#### 🏛️ Encapsulamento.
+#### 🏛️ Herança.
+#### 🏛️ Polimorfismo
 
-- [x] Tarefa 1
-- [x] Tarefa 2
-- [x] Tarefa 3
-- [ ] Tarefa 4
-- [ ] Tarefa 5
+
 
 ## 💻 Pré-requisitos
 
