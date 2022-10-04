@@ -1,4 +1,5 @@
-# Pet Shop <img src="pet_store_shop_building_animal_icon_124625.png" alt="exemplo imagem">
+# Pet Shop ![pet_store_shop_building_animal_icon_124625](https://user-images.githubusercontent.com/69332675/193919233-c65d5614-6429-4a9a-b0a8-74164e5e6716.png)
+
 
 ![pet_store_shop_building_animal_icon_124625](https://user-images.githubusercontent.com/69332675/193919233-c65d5614-6429-4a9a-b0a8-74164e5e6716.png)
 
